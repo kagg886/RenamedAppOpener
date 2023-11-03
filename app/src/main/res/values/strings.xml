@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RenamedAppOpener</string>
+    <string name="FILE_TOO_SMALL">文件过小，无法查看</string>
+    <string name="TARGET_NOT_APK">目标文件非apk安装包</string>
+    <string name="FILE_CREATE_FAILED">临时安装包文件创建失败</string>
+    <string name="UNKOWN_ERR">遇到了未知错误</string>
+    <string name="PLEASE_GRANT_PERMISSION">请授予该软件允许安装应用的权限</string>
+    <string name="GRANT_PREMISSION_FAILED_TIPS">请一定要打开\'允许安装应用的权限，否则无法正常工作!\'</string>
+    <string name="progressing">Progressing</string>
+</resources>
